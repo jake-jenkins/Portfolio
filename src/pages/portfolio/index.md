@@ -1,6 +1,6 @@
 ---
 heading: Great coffee with a conscience
-path: /products
+path: /portfolio
 templateKey: product-page
 title: Portfolio
 image: /img/jumbotron.jpg
