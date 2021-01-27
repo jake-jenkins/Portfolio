@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Lets make Awesome Software
-image: /img/home-jumbotron.jpg
+image: /img/laptop-2585956_1280.jpg
 heading: Lets make Awesome Software
 subheading: Jake Jenkins | Front End Web Developer
 mainpitch:
